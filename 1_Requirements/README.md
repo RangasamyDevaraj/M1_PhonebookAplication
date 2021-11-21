@@ -17,25 +17,40 @@ Adding new entries, browsing them, editing and updating, searching for saved con
     
     
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+## Strength
+
+This application will teach beginners how to add, list, modify or edit, search, and delete data to/from the file
+
+## Weakness
+
+
+
+## Opportunities
+
+This project helps to understand the basic concepts of the functions, file handling, and data structure.
+
+## Threats
+
+
+
 
 # 4W&#39;s and 1&#39;H
 
 ## Who:
 
-**TBD**
+** The main aim of this project is to provide an application that will be helpful to record any person’s details just like in mobile phones..**
 
 ## What:
 
-**TBD**
+** Phonebook System is a simple console application without graphics for Storing contact informations**
 
 ## When:
 
-**TBD**
+** it helps to add, list, modify, and delete phonebook related records.**
 
 ## Where:
 
-**TBD**
+** basic guides for the user **
 
 ## How:
 
