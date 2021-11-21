@@ -38,23 +38,23 @@ This project helps to understand the basic concepts of the functions, file handl
 
 ## Who:
 
-** The main aim of this project is to provide an application that will be helpful to record any person’s details just like in mobile phones..**
+The main aim of this project is to provide an application that will be helpful to record any person’s details just like in mobile phones..
 
 ## What:
 
-** Phonebook System is a simple console application without graphics for Storing contact informations**
+ Phonebook System is a simple console application without graphics for Storing contact informations
 
 ## When:
 
-** it helps to add, list, modify, and delete phonebook related records.**
+ it helps to add, list, modify, and delete phonebook related records.
 
 ## Where:
 
-** basic guides for the user **
+basic guides for the user 
 
 ## How:
 
-**TBD**
+Phonebook is an extremely straightforward small undertaking in C that can assist you with understanding the fundamental ideas of capacities, record taking care of and information structure. 
 
 # Detail requirements
 ## High Level Requirements:
