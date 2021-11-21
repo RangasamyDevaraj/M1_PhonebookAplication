@@ -12,7 +12,7 @@
 ![Description](Link to Pic)
 -- Content 
 ## Defining Our System
-    -- TBD
+    --Phonebook project is a very simple tool that helps you understand the basic concepts of creation, file extensions. This software teaches you how to add, view, edit or modify, receive and delete data from files.Adding new items, viewing them by logging in, editing and updating, searching for saved contacts and deleting data in the phonebook is one of the main features of the main phonebook application
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
 
