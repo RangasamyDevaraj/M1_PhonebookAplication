@@ -17,8 +17,8 @@ Adding new entries, browsing them, editing and updating, searching for saved con
 This application will teach beginners how to add, list, modify or edit, search, and delete data to/from the file
 
 ## Weakness
-
-
+ 
+ This application Case sensitive while doing Data manipulation and only user can accesss the data stored
 
 ## Opportunities
 
@@ -26,8 +26,7 @@ This project helps to understand the basic concepts of the functions, file handl
 
 ## Threats
 
-
-
+It take duration to perform data operation when tha huge number of record to be occuerd in repected stored locations  
 
 # 4W&#39;s and 1&#39;H
 
