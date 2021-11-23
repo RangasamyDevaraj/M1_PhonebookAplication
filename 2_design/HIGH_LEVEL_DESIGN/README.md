@@ -1,2 +1,2 @@
 
-Best approch method followed
+Best approach method to be followed
