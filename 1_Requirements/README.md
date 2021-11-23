@@ -9,6 +9,18 @@ Adding new entries, browsing them, editing and updating, searching for saved con
 ## Defining Our System
 
 Phonebook project is a very simple tool that helps you understand the basic concepts of creation, file extensions. This software teaches you how to add, view, edit or modify, receive and delete data from files.Adding new items, viewing them by logging in, editing and updating, searching for saved contacts and deleting data in the phonebook is one of the main features of the main phonebook application
+
+The system contains function that can manage the book information being stored in the library. The user can update the current availablity in the library.
+
+## Cost and Feature
+ # Cost
+The Cost for the Phone Book System application is the intialization of software and system requirements.
+
+ # Features
+*Add Contact information.
+*Display contact Details or information.
+*Listing N number of data records and manipulating them.
+*Record of the conatact details in PhoneBook Application.
     
     
 ## SWOT ANALYSIS
