@@ -17,10 +17,10 @@ The system contains function that can manage the book information being stored i
 The Cost for the Phone Book System application is the intialization of software and system requirements.
 
  # Features
-*Add Contact information.
-*Display contact Details or information.
-*Listing N number of data records and manipulating them.
-*Record of the conatact details in PhoneBook Application.
+* Add Contact information.
+* Display contact Details or information.
+* Listing N number of data records and manipulating them.
+* Record of the conatact details in PhoneBook Application.
     
     
 ## SWOT ANALYSIS
