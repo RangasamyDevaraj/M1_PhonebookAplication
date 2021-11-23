@@ -62,8 +62,9 @@ HLR5	| User shall be able For Deletion process| Implemented
 
 
 ##  Low level Requirements:
- # ID |	# Description	| #Status
-LLR1 |	User shall be able to get Details	|Implemented
-LLR1	|User shall be able to fetch quick |	Implemented
-LLR2	|System must display data without error	|Implemented
+|# ID |	# Description	| #Status |
+|------|-----------------------------------|--------------|
+| LLR1 |	User shall be able to get Details	|Implemented |
+| LLR1	| User shall be able to fetch quick |	Implemented |
+| LLR2	| System must display data without error	|Implemented |
 
