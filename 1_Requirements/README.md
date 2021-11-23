@@ -52,8 +52,7 @@ Phonebook is an extremely straightforward small undertaking in C that can assist
 
 # Detail requirements
 ## High Level Requirements:
-
-# |ID| Description	| Status |
+|ID| Description	| Status |
 |----------------|-----------------------------------------|--------------|
 | HLR1	| User shall be able to add new Contact information | Implemented |
 | HLR2	| User shall be able to List of Contacts | 	Implemented |
@@ -63,7 +62,7 @@ Phonebook is an extremely straightforward small undertaking in C that can assist
 
 
 ##  Low level Requirements:
-# | ID |	 Description	| Status |
+| ID |	 Description	| Status |
 |------|--------------------------------------------------------|--------------|
 | LLR1 |	User shall be able to get Details	|Implemented |
 | LLR1	| User shall be able to fetch quick  and Required Data |	Implemented |
