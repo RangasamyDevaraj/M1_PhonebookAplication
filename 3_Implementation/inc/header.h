@@ -1,6 +1,6 @@
 
-#ifndef _Phonebook_H
-#define _PHOnebook_H
+#ifndef _header_H
+#define _header_H
 
 struct contact
 {
