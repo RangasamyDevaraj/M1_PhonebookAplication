@@ -1,5 +1,6 @@
 
-
+#ifndef _Phonebook_H
+#define _PHOnebook_H
 
 struct contact
 {
@@ -18,3 +19,5 @@ void search();
 void update();
 void delete();
 
+
+#endif
